@@ -3,6 +3,8 @@
 This is a customized Dash app built for **Medical Aid Uganda** as part of the iSmile platform.
 
 ## Features
+🌐 **Live Demo:** [https://ismile-dashboard.onrender.com](https://ismile-dashboard.onrender.com)
+
 
 - Interactive clinical analytics dashboard
 - Visualization of patient data and clinical KPIs
